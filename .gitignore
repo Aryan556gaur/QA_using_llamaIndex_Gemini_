@@ -1,0 +1,6 @@
+build/
+dist/
+gudiya/
+logs/
+QApplication.egg-info/
+.env
